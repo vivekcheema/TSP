@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "340264192624",
+    "firebase_url": "https://quizz-bc8bb.firebaseio.com",
+    "project_id": "quizz-bc8bb",
+    "storage_bucket": "quizz-bc8bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340264192624:android:90d0b2543347dc760202b5",
+        "android_client_info": {
+          "package_name": "com.learnprogramming.academy.tsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340264192624-i27uqpnncsdrenchqeqnlp84v6slhdfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzweS9pwmf5mIIIFIVqif5JJBxQtxxuGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340264192624-i27uqpnncsdrenchqeqnlp84v6slhdfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
